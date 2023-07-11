@@ -1,11 +1,12 @@
 ### Hi there 👋
 
+ I’m currently working on a stock trading system using Danjngo, python, C++, git, API's, AWS, and PyCharm
+ I am a Software Engineering student and am currently doing an intership at Trusted Semicondutor Solutions. I am looking forward to new opertunitys and interships in the coming future. You can check out my Personal Resume Website at travisloukusa.com and reach me from there.
 <!--
 **Travisloukusa/Travisloukusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
