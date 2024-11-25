@@ -14,7 +14,10 @@ COnnect with me:www.linkedin.com/in/travis-loukusa
 
 Languages and Tools:
 
- ![C++](https://img.shields.io/badge/C%2B%2B-blue)  csharp  mssql  mysql  python  sqlite  javascript react 
+ ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) csharp  mssql  mysql  python  sqlite  javascript react 
 
 
 
