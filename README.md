@@ -1,7 +1,23 @@
-### Hi there 👋
+### Hi there 👋, Im Travis Loukusa
 
- I’m currently working on a stock trading system using Danjngo, python, C++, git, API's, AWS, and PyCharm
- I am a Software Engineering student and am currently doing an intership at Trusted Semicondutor Solutions. I am looking forward to new opertunitys and interships in the coming future. You can check out my Personal Resume Website at travisloukusa.com and reach me from there.
+Software engineering student, currently working at IDS as a Software Engineering Inter!
+- 🌱 I’m currently learning about SOC2 and architecture, and I'm looking forward to working on the back end aswell as learning more about back end programming!
+
+Interships:
+- Immersion Data Solutions (current)
+- Trusted Semi Conductor Solutions (2 years)
+
+
+
+
+COnnect with me:www.linkedin.com/in/travis-loukusa
+
+Languages and Tools:
+
+ cplusplus  csharp  mssql  mysql  python  sqlite  javascript react 
+
+
+
 <!--
 **Travisloukusa/Travisloukusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
