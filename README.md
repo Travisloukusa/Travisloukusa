@@ -14,7 +14,7 @@ COnnect with me:www.linkedin.com/in/travis-loukusa
 
 Languages and Tools:
 
- cplusplus  csharp  mssql  mysql  python  sqlite  javascript react 
+ 🧑‍💻💻  csharp  mssql  mysql  python  sqlite  javascript react 
 
 
 
