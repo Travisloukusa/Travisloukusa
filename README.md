@@ -14,7 +14,7 @@ COnnect with me:www.linkedin.com/in/travis-loukusa
 
 Languages and Tools:
 
- 🧑‍💻💻  csharp  mssql  mysql  python  sqlite  javascript react 
+ ![C++](https://img.shields.io/badge/C%2B%2B-blue)  csharp  mssql  mysql  python  sqlite  javascript react 
 
 
 
