@@ -10,7 +10,7 @@ Interships:
 
 
 
-COnnect with me:www.linkedin.com/in/travis-loukusa
+Connect with me:www.linkedin.com/in/travis-loukusa
 
 Languages and Tools:
 
